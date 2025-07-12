@@ -17,9 +17,11 @@ This project is a Streamlit-based chatbot that answers user questions using Open
    cd GenAI_Project
 
 **Install the requirements:**
+```sh
 pip install -r requirements.txt
 
 **USAGE: Run the Streamlit app**
+```sh
 streamlit run [app.py](http://_vscodecontentref_/0)
 
 Open the provided local URL in your browser.
