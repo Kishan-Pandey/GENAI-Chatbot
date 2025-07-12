@@ -18,11 +18,12 @@ This project is a Streamlit-based chatbot that answers user questions using Open
 
 **Install the requirements:**
 ```sh
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 **USAGE: Run the Streamlit app**
 ```sh
-streamlit run [app.py](http://_vscodecontentref_/0)
+   streamlit run [app.py](http://_vscodecontentref_/0)
+
 
 Open the provided local URL in your browser.
 Enter your OpenAI API key in the sidebar, select the desired model, adjust settings, and ask questions.
